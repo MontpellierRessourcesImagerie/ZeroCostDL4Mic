@@ -2,7 +2,15 @@
 
 _**Tl;dr**_: this [**wiki page**][wikiPage] has everything you need to get started.
 
-* [Run forked UNet in colab](https://colab.research.google.com/github/MontpellierRessourcesImagerie/ZeroCostDL4Mic/blob/master/Colab_notebooks/U-net_ZeroCostDL4Mic.ipynb)
+* Run forked notebooks in colab 
+  * [U-net](https://colab.research.google.com/github/MontpellierRessourcesImagerie/ZeroCostDL4Mic/blob/master/Colab_notebooks/U-net_ZeroCostDL4Mic.ipynb)
+  * [Stardist_2D](https://colab.research.google.com/github/MontpellierRessourcesImagerie/ZeroCostDL4Mic/blob/master/Colab_notebooks/Stardist_2D_ZeroCostDL4Mic.ipynb)
+  * [Stardist_3D](https://colab.research.google.com/github/MontpellierRessourcesImagerie/ZeroCostDL4Mic/blob/master/Colab_notebooks/Stardist_3D_ZeroCostDL4Mic.ipynb)
+  * [Noise2VOID_2D](https://colab.research.google.com/github/MontpellierRessourcesImagerie/ZeroCostDL4Mic/blob/master/Colab_notebooks/Noise2VOID_2D_ZeroCostDL4Mic.ipynb)
+  * [Noise2VOID_3D](https://colab.research.google.com/github/MontpellierRessourcesImagerie/ZeroCostDL4Mic/blob/master/Colab_notebooks/Noise2VOID_3D_ZeroCostDL4Mic.ipynb)
+  * [CARE_2D](https://colab.research.google.com/github/MontpellierRessourcesImagerie/ZeroCostDL4Mic/blob/master/Colab_notebooks/CARE_2D_ZeroCostDL4Mic.ipynb)
+  * [CARE_3D](https://colab.research.google.com/github/MontpellierRessourcesImagerie/ZeroCostDL4Mic/blob/master/Colab_notebooks/CARE_3D_ZeroCostDL4Mic.ipynb)
+  * [fnet](https://colab.research.google.com/github/MontpellierRessourcesImagerie/ZeroCostDL4Mic/blob/master/Colab_notebooks/fnet_ZeroCostDL4Mic.ipynb)
 
 ## What is this?
 
